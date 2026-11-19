@@ -17,19 +17,158 @@ Le scénarimage dans un cadre interactif inclut les moments où l'utilisateur in
 Comme pour le scénario narratif, le scénarimage doit montrer la progression de l’histoire ou de l’expérience au fil des interactions. Il permet de visualiser comment l’installation évolue en fonction des actions de l'utilisateur, avec des embranchements possibles selon ses choix.
 
 Retour visuel et sensoriel
-Le scénarimage doit inclure des annotations ou des visuels montrant les réponses visuelles, sonores ou tactiles à chaque interaction. Cela peut inclure des changements d’éclairage, des transitions vidéo, ou des effets sonores qui réagissent aux actions de l’utilisateur.
+Le scénarimage doit inclure des annotations ou des vissuels montrant les réponses visuelles, sonores ou tactiles à chaque interaction. Cela peut inclure des changements d’éclairage, des transitions vidéo, ou des effets sonores qui réagissent aux actions de l’utilisateur.
 -->
 
 
-## Scène #ID : Nom de scène
+## Scène 1 : Arrivée à l'installation
+
+![](./scene_01.png)
+
+**Ce que l’interacteur voit :**
+- L'écran projeté montrant des dessins qui défilent
+- Deux stations de dessins illuminées faisant face à l'audience (table - tablette graphique)
+- La zone délimité pour l'audience
+- Deux micros 
+
+**Ce que l’interacteur entend :**
+- Musique d'ambiance 
+
+
+## Scène 2 : Menu principal  (virtuel)
 
 ![](https://placehold.co/600x400?text=Sc%C3%A9narimage)
 
 **Ce que l’interacteur voit :**
-- ...
+- Bouton "*prêt*"
+- Titre de l'oeuvre  
+- Slogan de l'oeuvre
 
 **Ce que l’interacteur entend :**
-- ...
+- Musique d'ambiance (menu)
+
+
+### Tableau des actions
+| Verbe d’action | Condition / contexte | Effet visuel | Effet sonore | Effet interactif |
+| -- | -- | -- | -- | -- |
+|  Appuyer sur le bouton   |  Menu principal   | Titre du jeu avec le bouton de prêt    |     |     |
+
+## Scène 3 : Interface de jeu (virtuel)
+
+![](https://placehold.co/600x400?text=Sc%C3%A9narimage)
+
+**Ce que l’interacteur voit :** 
+- Roulette des thèmes des dessins
+- Décompte de 3, 2 et  1 
+- Canva 
+- Option de couleur 
+- Gomme à effacer
+- Chronomètre affichant 2 minutes
+- Contrôleur d'épaisseur 
+
+**Ce que l’interacteur entend :**
+- Bruit du décompte 
+- Musique d'ambiance (jeux)
+- Alerte du chronomètre au 3/4 du temps (1 min 30 )
+- Musique d'ambiance accéléré (jeux)
+- Tic pour les 10 dernières secondes
+
+### Tableau des automatisations
+| Déclenchement | Effet visuel | Effet sonore | Effet interactif |
+| -- | -- | -- | -- |
+|     |     |     |     |
+
+### Tableau des actions
+| Verbe d’action | Condition / contexte | Effet visuel | Effet sonore | Effet interactif |
+| -- | -- | -- | -- | -- |
+|     |     |     |     |     |
+
+## Scène 3.5 : Dessin en temps réel POV audience (virtuel)
+
+![](https://placehold.co/600x400?text=Sc%C3%A9narimage)
+
+**Ce que l’interacteur voit :**
+- Roulette des thèmes des dessins
+- Chronomètre affichant 2 minutes 
+- Les dessins des joueurs en temps réel
+
+**Ce que l’interacteur entend :**
+- Bruit du décompte 
+- Musique d'ambiance (jeux)
+- Alerte du chronomètre au 3/4 du temps (1 min 30 )
+- Musique d'ambiance accéléré (jeux)
+- Tic pour les 10 dernières secondes
+
+### Tableau des automatisations
+| Déclenchement | Effet visuel | Effet sonore | Effet interactif |
+| -- | -- | -- | -- |
+|     |     |     |     |
+
+### Tableau des actions
+| Verbe d’action | Condition / contexte | Effet visuel | Effet sonore | Effet interactif |
+| -- | -- | -- | -- | -- |
+|     |     |     |     |     |
+
+## Scène 4 : Préparation au vote (virtuel)
+
+![](https://placehold.co/600x400?text=Sc%C3%A9narimage)
+
+**Ce que l’interacteur voit :**
+- Instructions du vote
+- Les dessins des joueurs 
+- Chronomètre de 20 secondes 
+
+**Ce que l’interacteur entend :**
+- Musique d'ambiance (vote)
+- Alerte des 3 dernières secondes
+
+### Tableau des automatisations
+| Déclenchement | Effet visuel | Effet sonore | Effet interactif |
+| -- | -- | -- | -- |
+|     |     |     |     |
+
+### Tableau des actions
+| Verbe d’action | Condition / contexte | Effet visuel | Effet sonore | Effet interactif |
+| -- | -- | -- | -- | -- |
+|     |     |     |     |     |
+
+## Scène 5 : Vote (virtuel)
+
+![](https://placehold.co/600x400?text=Sc%C3%A9narimage)
+
+**Ce que l’interacteur voit :**
+- Instruction
+- Jauge de volume
+- Chronomètre de 5 secondes
+- Les dessins des joueurs 
+
+**Ce que l’interacteur entend :**
+- Encouragement de l'audience
+
+### Tableau des automatisations
+| Déclenchement | Effet visuel | Effet sonore | Effet interactif |
+| -- | -- | -- | -- |
+|     |     |     |     |
+
+### Tableau des actions
+| Verbe d’action | Condition / contexte | Effet visuel | Effet sonore | Effet interactif |
+| -- | -- | -- | -- | -- |
+|     |     |     |     |     |
+
+## Scène 6 : Résulat (virtuel)
+
+![](https://placehold.co/600x400?text=Sc%C3%A9narimage)
+
+**Ce que l’interacteur voit :**
+- Texte "*Vainquer*"
+- Dessin du vainqueur
+
+
+**Ce que l’interacteur entend :**
+- Musique d'ambience (victoire)
+
+
+
 
 ### Tableau des automatisations
 | Déclenchement | Effet visuel | Effet sonore | Effet interactif |
