@@ -37,7 +37,7 @@ Le scénarimage doit inclure des annotations ou des vissuels montrant les répon
 
 ## Scène 2 : Menu principal  (virtuel)
 
-![](https://placehold.co/600x400?text=Sc%C3%A9narimage)
+![](./scene_02.png)
 
 **Ce que l’interacteur voit :**
 - Bouton "*prêt*"
@@ -55,7 +55,7 @@ Le scénarimage doit inclure des annotations ou des vissuels montrant les répon
 
 ## Scène 3 : Interface de jeu (virtuel)
 
-![](https://placehold.co/600x400?text=Sc%C3%A9narimage)
+![](./scene_03.png)
 
 **Ce que l’interacteur voit :** 
 - Roulette des thèmes des dessins
@@ -85,7 +85,7 @@ Le scénarimage doit inclure des annotations ou des vissuels montrant les répon
 
 ## Scène 3.5 : Dessin en temps réel POV audience (virtuel)
 
-![](https://placehold.co/600x400?text=Sc%C3%A9narimage)
+![](./scene_03,5.png)
 
 **Ce que l’interacteur voit :**
 - Roulette des thèmes des dessins
@@ -111,7 +111,7 @@ Le scénarimage doit inclure des annotations ou des vissuels montrant les répon
 
 ## Scène 4 : Préparation au vote (virtuel)
 
-![](https://placehold.co/600x400?text=Sc%C3%A9narimage)
+![](./scene_04.png)
 
 **Ce que l’interacteur voit :**
 - Instructions du vote
@@ -134,7 +134,7 @@ Le scénarimage doit inclure des annotations ou des vissuels montrant les répon
 
 ## Scène 5 : Vote (virtuel)
 
-![](https://placehold.co/600x400?text=Sc%C3%A9narimage)
+![](./scene_05.png)
 
 **Ce que l’interacteur voit :**
 - Instruction
@@ -157,10 +157,10 @@ Le scénarimage doit inclure des annotations ou des vissuels montrant les répon
 
 ## Scène 6 : Résulat (virtuel)
 
-![](https://placehold.co/600x400?text=Sc%C3%A9narimage)
+![](./scene_06.png)
 
 **Ce que l’interacteur voit :**
-- Texte "*Vainquer*"
+- Texte "*Vainqueur*"
 - Dessin du vainqueur
 
 
