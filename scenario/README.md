@@ -51,7 +51,7 @@ Le scénarimage doit inclure des annotations ou des vissuels montrant les répon
 ### Tableau des actions
 | Verbe d’action | Condition / contexte | Effet visuel | Effet sonore | Effet interactif |
 | -- | -- | -- | -- | -- |
-|  Appuyer sur le bouton   |  Menu principal   | Titre du jeu avec le bouton de prêt    |     |     |
+|  Appuyer sur le bouton via la tablette graphique   |  Menu principal   | Changement du fond d'écran    |   Son de confirmation  |  Confirmation de la présence du joueur. Si les boutons des deux stations sont appuyés -> début du jeu   |
 
 ## Scène 3 : Interface de jeu (virtuel)
 
@@ -76,12 +76,14 @@ Le scénarimage doit inclure des annotations ou des vissuels montrant les répon
 ### Tableau des automatisations
 | Déclenchement | Effet visuel | Effet sonore | Effet interactif |
 | -- | -- | -- | -- |
-|     |     |     |     |
+|  Entrée de la scène   |  Roulette qui tourne   |  Son de roulette   |   Définition du thème du dessin  |
+|  Fin du chronomètre   |  Apparition de la scène 4   |  Son d'alerte   |   Blocage de l'espace de dessin  |
 
 ### Tableau des actions
 | Verbe d’action | Condition / contexte | Effet visuel | Effet sonore | Effet interactif |
 | -- | -- | -- | -- | -- |
-|     |     |     |     |     |
+|   Tracer sur le canva via la tablette graphique  |   Selon le thème défini  |   Gravure du trait sur le canva  |  N/A   |   Modification du dessin  |
+|   Appuyer sur un cercle de couleur via la tablette graphique  |   Pendant le dessinage  |   Bordure verte autour de la couleur  |  Petit effet sonore de sélection  |   Changement de la couleur des futurs traits  |
 
 ## Scène 3.5 : Dessin en temps réel POV audience (virtuel)
 
@@ -99,16 +101,6 @@ Le scénarimage doit inclure des annotations ou des vissuels montrant les répon
 - Musique d'ambiance accéléré (jeux)
 - Tic pour les 10 dernières secondes
 
-### Tableau des automatisations
-| Déclenchement | Effet visuel | Effet sonore | Effet interactif |
-| -- | -- | -- | -- |
-|     |     |     |     |
-
-### Tableau des actions
-| Verbe d’action | Condition / contexte | Effet visuel | Effet sonore | Effet interactif |
-| -- | -- | -- | -- | -- |
-|     |     |     |     |     |
-
 ## Scène 4 : Préparation au vote (virtuel)
 
 ![](./scene_04.png)
@@ -125,12 +117,12 @@ Le scénarimage doit inclure des annotations ou des vissuels montrant les répon
 ### Tableau des automatisations
 | Déclenchement | Effet visuel | Effet sonore | Effet interactif |
 | -- | -- | -- | -- |
-|     |     |     |     |
+|  Fin du chronomètre   |  Apparition de la scène 5   |  Fin de la musique   |   Changement de scène  |
 
 ### Tableau des actions
 | Verbe d’action | Condition / contexte | Effet visuel | Effet sonore | Effet interactif |
 | -- | -- | -- | -- | -- |
-|     |     |     |     |     |
+|  L'audience se déplace vers un des deux micros   |   Avant le vote  |  N/A   |  N/A   |   N/A  |
 
 ## Scène 5 : Vote (virtuel)
 
@@ -148,12 +140,12 @@ Le scénarimage doit inclure des annotations ou des vissuels montrant les répon
 ### Tableau des automatisations
 | Déclenchement | Effet visuel | Effet sonore | Effet interactif |
 | -- | -- | -- | -- |
-|     |     |     |     |
+|  Fin du chronomètre   |  Apparition de la scène 6   |  N/A   |   Changement de scène  |
 
 ### Tableau des actions
 | Verbe d’action | Condition / contexte | Effet visuel | Effet sonore | Effet interactif |
 | -- | -- | -- | -- | -- |
-|     |     |     |     |     |
+|  Acclamer en direction du micro représentant le dessin voté  |   Durant le vote, par l'audience  |   Changement de la barre de volume  |  N/A   |   Hausse du volume moyen   |
 
 ## Scène 6 : Résulat (virtuel)
 
@@ -166,16 +158,3 @@ Le scénarimage doit inclure des annotations ou des vissuels montrant les répon
 
 **Ce que l’interacteur entend :**
 - Musique d'ambience (victoire)
-
-
-
-
-### Tableau des automatisations
-| Déclenchement | Effet visuel | Effet sonore | Effet interactif |
-| -- | -- | -- | -- |
-|     |     |     |     |
-
-### Tableau des actions
-| Verbe d’action | Condition / contexte | Effet visuel | Effet sonore | Effet interactif |
-| -- | -- | -- | -- | -- |
-|     |     |     |     |     |

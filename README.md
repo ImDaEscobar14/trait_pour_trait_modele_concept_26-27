@@ -16,8 +16,11 @@ Trait pour trait est une expérience interactive, permettant d’exprimer la cr�
 ## Le parcours de l'interacteur
 
 En entrant dans l’espace, l’interacteur voit des œuvres défiler sur un écran projeté et en face de cet écran, deux stations de dessins illuminés font dos à l’écran et face à une zone délimitée par du tape au sol pour faire place a une audience.
+
 L’interacteur s’assoit à l’une des deux stations de dessin et appuie sur le bouton « prêt » sur la tablette à l’aide du stylet. Lorsque les deux stations sont occupées et que les deux boutons prêts ont été appuyés, une roulette de thème est lancée et l’interacteur à 2 minutes pour réaliser un dessin respectant le thème. Lorsque le temps est écoulé, les joueurs sont invités à voter.
+
 Lors de la réalisation des dessins, l’audience observe la création des œuvres. À la fin du chronomètre, le public se place vis-à-vis les micros correspondant au dessin qu’ils ont préféré. Ils doivent ensuite faire le plus de bruit possible pour couronner le vainqueur. L’œuvre gagnante s’ajoute au défilement des œuvres.
+
 Les prochains joueurs s’installent.
  
  ---
