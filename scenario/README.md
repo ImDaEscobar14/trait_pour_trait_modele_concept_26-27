@@ -82,14 +82,12 @@ Le scénarimage doit inclure des annotations ou des vissuels montrant les répon
 ### Tableau des actions
 | Verbe d’action | Condition / contexte | Effet visuel | Effet sonore | Effet interactif |
 | -- | -- | -- | -- | -- |
-|   Tracer  |  Sur le canva via la tablette graphique  |   Gravure du trait sur le canva  |  N/A   |   Modification du dessin  |
+|   Tracer  |  Sur le canva via la tablette graphique  |   Gravure du trait sur le canva  |  N/A   |   Modification du canevas  |
 |   Appuyer  | Sur un cercle de couleur via la tablette graphique   |   Bordure verte autour de la couleur  |  Petit effet sonore de sélection  |   Changement de la couleur des futurs traits  |
+|   Appuyer  |  Sur le bouton efface  |   Bordure verte autour de l'icône d'efface  |  Petit effet sonore   |   Passage au mode efface  |
+|   Glisser  |  Sur la glissière de largeur de trait  |   Positionnement de la boule de valeur de la glissière  |  N/A   |   Modification de la largeur du trait  |
 
-> COMMENTAIRE : EFFACE ?
-
-## Scène 3.5 : Dessin en temps réel POV audience (virtuel)
-
-> COMMENTAIRE : EN MÊME TEMPS DONC MÊME SCÈNE
+### Scène 3 POV Audience : Dessin en temps réel (virtuel)
 
 ![](./scene_03,5.png)
 
@@ -105,32 +103,7 @@ Le scénarimage doit inclure des annotations ou des vissuels montrant les répon
 - Musique d'ambiance accéléré (jeux)
 - Tic pour les 10 dernières secondes
 
-## Scène 4 : Préparation au vote (virtuel)
-
-> COMMENTAIRE : IL FAUT UNE IMAGE DIFFÉRENTE
-
-![](./scene_04.png)
-
-**Ce que l’interacteur voit :**
-- Instructions du vote
-- Les dessins des joueurs 
-- Chronomètre de 20 secondes 
-
-**Ce que l’interacteur entend :**
-- Musique d'ambiance (vote)
-- Alerte des 3 dernières secondes
-
-### Tableau des automatisations
-| Déclenchement | Effet visuel | Effet sonore | Effet interactif |
-| -- | -- | -- | -- |
-|  Fin du chronomètre   |  Apparition de la scène 5   |  Fin de la musique   |   Changement de scène  |
-
-### Tableau des actions
-| Verbe d’action | Condition / contexte | Effet visuel | Effet sonore | Effet interactif |
-| -- | -- | -- | -- | -- |
-|  L'audience se déplace vers un des deux micros   |   Avant le vote  |  N/A   |  N/A   |   N/A  |
-
-## Scène 5 : Vote (virtuel)
+## Scène 4 : Vote (virtuel)
 
 ![](./scene_05.png)
 

@@ -19,13 +19,9 @@ En entrant dans l’espace, l’interacteur voit des œuvres défiler sur un éc
 
 L’interacteur s’assoit à l’une des deux stations de dessin et appuie sur le bouton « prêt » sur la tablette à l’aide du stylet. Lorsque les deux stations sont occupées et que les deux boutons prêts ont été appuyés, une roulette de thème est lancée et l’interacteur à deux(2) minutes pour réaliser un dessin respectant le thème. Lorsque le temps est écoulé, le public est invité à voter.
 
-Lors de la réalisation des dessins, l’audience observe la création des œuvres. À la fin du chronomètre, le public se place vis-à-vis les micros correspondant au dessin qu’ils ont préféré. Ils doivent ensuite faire le plus de bruit possible pour couronner le vainqueur. L’œuvre gagnante s’ajoute au défilement des œuvres.
-
-> COMMENTAIRE : UN OU DEUX MICROS ? SINON LE PUBLIC VOTE DÉJA EN SE DÉPLAÇANT*
+Lors de la réalisation des dessins, l’audience observe la création des œuvres. À la fin du chronomètre, doit ensuite faire le plus de bruit possible vers le micro associé à son dessin favori pour couronner le vainqueur. L’œuvre gagnante s’ajoute au défilement des œuvres.
 
 Les prochains joueurs s’installent.
- 
- ---
 
 <!-- 
 Comportement de l’interacteur
@@ -37,8 +33,4 @@ un résumé du parcours de l'interacteur du début à la fin de son expérience 
 La ligne entre l'audience et les joueurs se flouent via le système interactif de vote par applaudissement, offrant de l'agentivité à l'audience. 
 
 ## Pourquoi est-ce que le projet est original ?
-
-> COMMENTAIRE : QUELLE EST LA PARTICIPATION INATTENDU DU PUBLIC ?
-> AUSSI, LA TABLETTE EST LA MÉTHODE ATTENDUE DE DESSIN...
-
-Le jeu offre une participation du public d'une méthode inattendue contribuant à l'expérience multi-personne. De plus, l'installation inclut des tablettes graphiques permettant aux joueurs d'exprimer leur créativité d'une méthode plus efficace et moins attendue.
+Le jeu offre une participation du public d'une méthode inattendue contribuant à l'expérience multi-personne via son système de vote par acclamation, original à l'univers de l'installation interactive.
