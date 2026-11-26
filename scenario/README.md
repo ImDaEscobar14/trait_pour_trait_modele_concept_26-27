@@ -28,8 +28,8 @@ Le scénarimage doit inclure des annotations ou des vissuels montrant les répon
 **Ce que l’interacteur voit :**
 - L'écran projeté montrant des dessins qui défilent
 - Deux stations de dessins illuminées faisant face à l'audience (table - tablette graphique)
-- La zone délimité pour l'audience
-- Deux microphones 
+- La zone délimitée pour l'audience
+- Deux microphones. 
 
 **Ce que l’interacteur entend :**
 - Musique d'ambiance 
@@ -82,10 +82,14 @@ Le scénarimage doit inclure des annotations ou des vissuels montrant les répon
 ### Tableau des actions
 | Verbe d’action | Condition / contexte | Effet visuel | Effet sonore | Effet interactif |
 | -- | -- | -- | -- | -- |
-|   Tracer sur le canva via la tablette graphique  |   Selon le thème défini  |   Gravure du trait sur le canva  |  N/A   |   Modification du dessin  |
-|   Appuyer sur un cercle de couleur via la tablette graphique  |   Pendant le dessinage  |   Bordure verte autour de la couleur  |  Petit effet sonore de sélection  |   Changement de la couleur des futurs traits  |
+|   Tracer  |  Sur le canva via la tablette graphique  |   Gravure du trait sur le canva  |  N/A   |   Modification du dessin  |
+|   Appuyer  | Sur un cercle de couleur via la tablette graphique   |   Bordure verte autour de la couleur  |  Petit effet sonore de sélection  |   Changement de la couleur des futurs traits  |
+
+> COMMENTAIRE : EFFACE ?
 
 ## Scène 3.5 : Dessin en temps réel POV audience (virtuel)
+
+> COMMENTAIRE : EN MÊME TEMPS DONC MÊME SCÈNE
 
 ![](./scene_03,5.png)
 
@@ -102,6 +106,8 @@ Le scénarimage doit inclure des annotations ou des vissuels montrant les répon
 - Tic pour les 10 dernières secondes
 
 ## Scène 4 : Préparation au vote (virtuel)
+
+> COMMENTAIRE : IL FAUT UNE IMAGE DIFFÉRENTE
 
 ![](./scene_04.png)
 
@@ -145,7 +151,7 @@ Le scénarimage doit inclure des annotations ou des vissuels montrant les répon
 ### Tableau des actions
 | Verbe d’action | Condition / contexte | Effet visuel | Effet sonore | Effet interactif |
 | -- | -- | -- | -- | -- |
-|  Acclamer en direction du micro représentant le dessin voté  |   Durant le vote, par l'audience  |   Changement de la barre de volume  |  N/A   |   Hausse du volume moyen   |
+|  Acclamer  |   En direction du micro représentant le dessin voté  |   Changement de la barre de volume  |  N/A   |   Hausse du volume moyen   |
 
 ## Scène 6 : Résulat (virtuel)
 
