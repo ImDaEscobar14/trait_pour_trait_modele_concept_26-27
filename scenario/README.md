@@ -29,7 +29,7 @@ Le scénarimage doit inclure des annotations ou des vissuels montrant les répon
 - L'écran projeté montrant des dessins qui défilent
 - Deux stations de dessins illuminées faisant face à l'audience (table - tablette graphique)
 - La zone délimité pour l'audience
-- Deux micros 
+- Deux microphones 
 
 **Ce que l’interacteur entend :**
 - Musique d'ambiance 

@@ -31,3 +31,8 @@ Qu'est-ce que fait l'interacteur?
 un résumé du parcours de l'interacteur du début à la fin de son expérience - qu'est-ce qu'il fait, qu'est-ce qu'il manipule, etc
 -->
 
+## Comment le projet s’adapte de un à plusieurs interacteurs ?
+La ligne entre l'audience et les joueurs se flouent via le système interactif de vote par applaudissement, offrant de l'agentivité à l'audience. 
+
+## Pourquoi est-ce que le projet est original ?
+Le jeu offre une participation du public d'une méthode inattendue contribuant à l'expérience multi-personne. De plus, l'installation inclut des tablettes graphiques permettant aux joueurs d'exprimer leur créativité d'une méthode plus efficace et moins attendue.
